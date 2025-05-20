@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ##  🔵 Blue TEAM 🔵
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/Toba0z/vulnerability_Management_program)**
-- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/Toba0z/stig--implementation)**
+- **[Operation Jackal Spear: A Threat Hunting Scenario](https://github.com/Toba0z/stig--implementation)**
 - **[15+ Programmatic Vulnerability Remediations (PowerShell and BASH))](https://github.com/Toba0z/Audit-Remediation-Win-Server)**
 - **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/Toba0z/Toba0z-Remediation-Automation-Bash-Powershell)**
 - **[Vulnerability Management in Azure Sandbox](https://github.com/Toba0z/ten-nessus-vulnerability/blob/main/README.md)**
@@ -23,7 +23,20 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Toba0z/threat-hunting-scenario-tor-brws/tree/main)**
-- **[Incident Response: Phishing via Fake Software Update](https://github.com/Toba0z/Phishing-SoftwareUpdate)**
+- **[Incident Response: Phishing via Fake Software Update](https://github.com/Toba0z/Operation-Jackal-Spear-A-Threat-Hunting-Scenario/blob/main/README.md)**
+- **[PwnCrypt Outbreak: A Zero-Day Ransomware Event](https://github.com/Toba0z/Operation-PwnCrypt-Zero-Day-Ransomware-Strike/blob/main/README.md)**
+- **[Detecting Remote Code Execution (RCE)](https://github.com/Toba0z/Detecting-Remote-Code-Execution-RCE-/blob/main/README.md)**
+- **[Creating Alert Rules for Brute Force Attempts](https://github.com/Toba0z/Creating-Alert-Rules-for-Brute-Force-Attempts/blob/main/README.md)**
+- **[Phishing Email Response Workflow](https://github.com/Toba0z/Phishing-Email-Response-Workflow/blob/main/README.md)**
+- **[ Detecting-Suspicious-PowerShell-Web-Activity](https://github.com/Toba0z/Detecting-Suspicious-PowerShell-Web-Activity/blob/main/README.md)**
+- **[ Alert-Rule-Potential-Impossible-Travel](https://github.com/Toba0z/Alert-Rule-Potential-Impossible-Travel/blob/main/README.md)**
+- **[Insider Threat Hunt: Data Exfiltration by PIP'd Employee](https://github.com/Toba0z/Data-Exfiltration-Detection/blob/main/README.md)**
+- **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/Toba0z/DeviceInfo-Alert-Public-IP-Exposure/blob/main/README.md)**
+- **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/Toba0z/Alert-Sudden-Network-Slowdowns/blob/main/README.md)**
+- **[NIST Framework: Compliance Implementation Guide](https://github.com/Toba0z/NIST-Compliance-Framework-Overview/blob/main/README.md)**
+
+## GRC Analyst
+- **[NIST Cybersecurity Framework (CSF) 2.0: Corporate Assessment](https://github.com/Toba0z/Governance-Risk-Compliance-Analyst-Project/blob/main/README.md)**
 
 <hr/>
 
