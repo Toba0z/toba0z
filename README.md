@@ -41,26 +41,32 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🧰Tools:
 **Network** 
+
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Windows&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 
 **Endpoint**  
+
 ![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C89?style=for-the-badge&logo=Kali%20Linux&logoColor=white)
 
 **SIEM** 
+
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 
 **Security Testing**  
+
 ![Atomic Red Team](https://img.shields.io/badge/-Atomic_Red_Team-FF0000?style=for-the-badge&logo=atomic-red-team&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/-PowerShell-2E6DBF?style=for-the-badge&logo=PowerShell&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 
 **Vulnerability Management**  
+
 ![Tenable](https://img.shields.io/badge/-Tenable-3E4D88?style=for-the-badge&logo=Tenable&logoColor=white)
 
 **Cloud**
+
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 
 
