@@ -39,6 +39,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## GRC Analyst
 - **[NIST Cybersecurity Framework (CSF) 2.0: Corporate Assessment](https://github.com/Toba0z/Governance-Risk-Compliance-Analyst-Project/blob/main/README.md)**
 
+## 🧰Tools:
+Network
+**(https://camo.githubusercontent.com/390c9bf40a608c3aaedbf8541fcdcbde388d3539ab30ecf1696e0dd31421b615/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4163746976652532304469726563746f72792d3030373844343f267374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773266c6f676f436f6c6f723d7768697465)**
 <hr/>
 
 ## 🤳 Connect With Me
