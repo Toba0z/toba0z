@@ -1,6 +1,17 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Toba Omo</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/toba-omoniyi/">Toba Omo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
+## 🟣 PURPLE TEAM 🟣
+
+🎯 **Full SIEM**
+
+
+## ⚠️ Cloud/Cybersecurity Projects:
+
+- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it (Live Traffic)](https://github.com/Toba0z/Cloud-Soc)**
+- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/Toba0z/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-Ppl/tree/main)**
+- **[Setting up Splunk SIEM; Attacking and remediating it (Live Traffic)](https://github.com/Toba0z/Splunk-SIEM)**
 
 
 ## ⚠️ Vulnerability Management Projects
