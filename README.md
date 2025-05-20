@@ -12,8 +12,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Setting up Splunk SIEM; Attacking and remediating it (Live Traffic)](https://github.com/Toba0z/Splunk-SIEM)**
 
 
-##  🔵 Blue TEAM 🔵
-## ⚠️ Vulnerability Management Projects
+*🟣 PURPLE TEAM 🟣*
+** ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/Toba0z/vulnerability_Management_program)**
 - **[Operation Jackal Spear: A Threat Hunting Scenario](https://github.com/Toba0z/stig--implementation)**
 - **[15+ Programmatic Vulnerability Remediations (PowerShell and BASH))](https://github.com/Toba0z/Audit-Remediation-Win-Server)**
