@@ -10,7 +10,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it (Live Traffic)](https://github.com/Toba0z/Cloud-Soc)**
 - **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/Toba0z/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-Ppl/tree/main)**
 - **[Setting up Splunk SIEM; Attacking and remediating it (Live Traffic)](https://github.com/Toba0z/Splunk-SIEM)**
-
+  
+<hr style="height:4px; background-color:black; border:none;" />
 
 * 🔵BlUE TEAM 🔵*
   
