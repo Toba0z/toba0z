@@ -79,7 +79,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 
 
+## 📜 Certifications
 
+- **CISSP**: *Expected October 2025*
+- **CompTIA CySA+**: *Expected September 2025*
 
 <hr/>
 
