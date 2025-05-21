@@ -2,7 +2,7 @@
 
 # DevSecOps and Cybersecurity Project Portfolio 🔐
 
-<a href="https://www.linkedin.com/in/your-username/" target="_blank">
+<a href="https://https://www.linkedin.com/in/toba-omoniyi/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
