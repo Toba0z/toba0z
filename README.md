@@ -6,7 +6,15 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m passionate about tackling complex security challenges and aspire to lead Blue Team initiatives that proactively defend organizations from evolving cyber threats. With a reputation as a “jack of all trades,” I bring a well-rounded blend of technical skills and hands-on experience to strengthen cyber defenses and secure digital environments.
+
+I hold a Diploma in Information Technology & Applied Systems, along with certifications including CompTIA Cybersecurity Analyst (CySA+) and Microsoft Azure Fundamentals (AZ-900). In my current role as a Cybersecurity Support Engineer, I conduct in-depth vulnerability assessments, prioritize high-risk findings, and implement automated remediation scripts using PowerShell—achieving a 100% reduction in critical vulnerabilities and preventing brute-force attacks.
+
+My technical toolkit includes expertise in Endpoint Detection and Response (EDR), CVE/CWE management, CVSS scoring, OWASP Top 10, and scripting with PowerShell and Bash. I have experience configuring firewalls and network security groups (NSGs), and ensuring compliance with NIST and PCI-DSS frameworks. I regularly work with tools such as Tenable, Microsoft Defender for Endpoint, and Microsoft Sentinel, using KQL to create actionable dashboards and conduct advanced threat hunting.
+
+I thrive in collaborative, cross-functional environments—bridging communication between technical teams and stakeholders while aligning security efforts with business goals. Known for my adaptability and precision, I bring proactive, results-driven solutions to every security challenge.
+
+I’m always open to connecting with professionals and organizations focused on strengthening their cybersecurity posture. Let’s work together to defend against today’s threats and stay ahead of tomorrow’s.
 
 ## ⚠️ Cloud/Cybersecurity Projects:
 ## 🟣 PURPLE TEAM 🟣
