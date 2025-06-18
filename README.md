@@ -12,7 +12,7 @@ I hold a Diploma in Information Technology & Applied Systems, along with certifi
 
 My technical toolkit includes expertise in Endpoint Detection and Response (EDR), CVE/CWE management, CVSS scoring, OWASP Top 10, and scripting with PowerShell and Bash. I have experience configuring firewalls and network security groups (NSGs), and ensuring compliance with NIST and PCI-DSS frameworks. I regularly work with tools such as Tenable, Microsoft Defender for Endpoint, and Microsoft Sentinel, using KQL to create actionable dashboards and conduct advanced threat hunting.
 
-I thrive in collaborative, cross-functional environments—bridging communication between technical teams and stakeholders while aligning security efforts with business goals. Known for my adaptability and precision, I bring proactive, results-driven solutions to every security challenge.
+I thrive in collaborative, cross-functional environments bridging communication between technical teams and stakeholders while aligning security efforts with business goals. Known for my adaptability and precision, I bring proactive, results-driven solutions to every security challenge.
 
 I’m always open to connecting with professionals and organizations focused on strengthening their cybersecurity posture. Let’s work together to defend against today’s threats and stay ahead of tomorrow’s.
 
