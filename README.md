@@ -8,7 +8,7 @@
 
 I’m passionate about tackling complex security challenges and aspire to lead Blue Team initiatives that proactively defend organizations from evolving cyber threats. With a reputation as a “jack of all trades,” I bring a well-rounded blend of technical skills and hands-on experience to strengthen cyber defenses and secure digital environments.
 
-I hold a Diploma in Information Technology & Applied Systems, along with certifications including CompTIA Cybersecurity Analyst (CySA+) and Microsoft Azure Fundamentals (AZ-900). In my current role as a Cybersecurity Support Engineer, I conduct in-depth vulnerability assessments, prioritize high-risk findings, and implement automated remediation scripts using PowerShell—achieving a 100% reduction in critical vulnerabilities and preventing brute-force attacks.
+I hold a Diploma in Information Technology & Applied Systems, along with certifications including CompTIA Cybersecurity Analyst (CySA+) and Microsoft Azure Fundamentals (AZ-900). In my current role as a Cybersecurity Support Engineer, I conduct in-depth vulnerability assessments, prioritize high-risk findings, and implement automated remediation scripts using PowerShell achieving a 100% reduction in critical vulnerabilities and preventing brute-force attacks.
 
 My technical toolkit includes expertise in Endpoint Detection and Response (EDR), CVE/CWE management, CVSS scoring, OWASP Top 10, and scripting with PowerShell and Bash. I have experience configuring firewalls and network security groups (NSGs), and ensuring compliance with NIST and PCI-DSS frameworks. I regularly work with tools such as Tenable, Microsoft Defender for Endpoint, and Microsoft Sentinel, using KQL to create actionable dashboards and conduct advanced threat hunting.
 
