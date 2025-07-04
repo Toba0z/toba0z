@@ -59,7 +59,7 @@ I’m always open to connecting with professionals and organizations focused on 
 ## ⚠️ Cloud/DevSecOps Projects 
 - **[Packer-Provision-Project ](https://github.com/Toba0z/packer-provisioning)**
 - **[Checkout my Terraform Project(IaC) ](https://github.com/Toba0z/springapp_terraform)**
-- **[CI pipeline project ](https://github.com/Toba0z/DevSecOps_pipeline_PJ/tree/main)**
+- **[GitHub Actions CI pipeline project ](https://github.com/Toba0z/DevSecOps_pipeline_PJ/tree/main)**
 
 
 
