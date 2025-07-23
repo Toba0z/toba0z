@@ -77,6 +77,8 @@ I'm Toba, an Information Technology specialist specializing in Cloud Infrastruct
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-DE3423?style=flat&logo=argo&logoColor=white)
+
 
 ### 🧪 Testing & Automation
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
