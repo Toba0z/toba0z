@@ -78,6 +78,8 @@ I'm Toba, an Information Technology specialist specializing in Cloud Infrastruct
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-DE3423?style=flat&logo=argo&logoColor=white)
+![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat&logo=snyk&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
 
 
 ### 🧪 Testing & Automation
