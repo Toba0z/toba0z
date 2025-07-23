@@ -1,8 +1,16 @@
 
-##👋 Hey
-I'm Toba, an Information Technology specialist specializing in Cloud Infrastructure/DevOps engineering
-Graduated from [Vancouver Island University](https://www.viu.ca/), where I studied [Information Technology and Applied Systems (ITAS)](https://www.viu.ca/programs/technology-applied-science/information-technology-and-applied-systems-diploma).
-I also completed the [BrainStation Software Engineering Diploma](https://brainstation.io/course/online/remote/software-engineering-bootcamp) to further reinforce my web development knowledge.
+## 👋 Hey
+
+I'm Toba, an Information Technology specialist specializing in Cloud Infrastructure and DevOps Engineering.  
+
+- 🎓 Graduated from [Vancouver Island University](https://www.viu.ca/), where I studied [Information Technology and Applied Systems (ITAS)](https://www.viu.ca/programs/technology-applied-science/information-technology-and-applied-systems-diploma).
+- 💻 Completed the [BrainStation Software Engineering Diploma](https://brainstation.io/course/online/remote/software-engineering-bootcamp) to further reinforce my web development knowledge.
+
+
+## ⚠️ AWS Cloud/DevSecOps Projects 
+- **[Packer-Provision-Project ](https://github.com/Toba0z/packer-provisioning)**
+- **[Checkout my Terraform Project(IaC) ](https://github.com/Toba0z/springapp_terraform)**
+- **[GitHub Actions CI pipeline project ](https://github.com/Toba0z/DevSecOps_pipeline_PJ/tree/main)**
 
 
 ## ⚠️ Cloud/Cybersecurity Projects:
@@ -45,10 +53,7 @@ I also completed the [BrainStation Software Engineering Diploma](https://brainst
 ## GRC Analyst
 - **[NIST Cybersecurity Framework (CSF) 2.0: Corporate Assessment](https://github.com/Toba0z/Governance-Risk-Compliance-Analyst-Project/blob/main/README.md)**
 
-## ⚠️ Cloud/DevSecOps Projects 
-- **[Packer-Provision-Project ](https://github.com/Toba0z/packer-provisioning)**
-- **[Checkout my Terraform Project(IaC) ](https://github.com/Toba0z/springapp_terraform)**
-- **[GitHub Actions CI pipeline project ](https://github.com/Toba0z/DevSecOps_pipeline_PJ/tree/main)**
+
 
 
 ## 🚀 Tech Stack
@@ -56,7 +61,6 @@ I also completed the [BrainStation Software Engineering Diploma](https://brainst
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
@@ -72,8 +76,7 @@ I also completed the [BrainStation Software Engineering Diploma](https://brainst
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 
 ### 🧪 Testing & Automation
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
