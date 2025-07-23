@@ -4,7 +4,7 @@
 I'm Toba, an Information Technology specialist specializing in Cloud Infrastructure and DevOps Engineering.  
 
 - 🎓 Graduated from [Vancouver Island University](https://www.viu.ca/), where I studied [Information Technology and Applied Systems (ITAS)](https://tradesappliedtech.viu.ca/itas).
-- 💻 Completed the [BrainStation Software Engineering Diploma](https://brainstation.io/course/online/remote/software-engineering-bootcamp) to further reinforce my web development knowledge.
+- 💻 Completed the [BrainStation Software Engineering Diploma](https://brainstation.io/course/online/remote-web-development-bootcamp) to further reinforce my web development knowledge.
 
 
 ## ⚠️ AWS Cloud/DevSecOps Projects 
