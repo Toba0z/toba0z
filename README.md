@@ -1,14 +1,9 @@
 
+##👋 Hey
+I'm Toba, an Information Technology specialist specializing in Cloud Infrastructure/DevOps engineering
+Graduated from [Vancouver Island University](https://www.viu.ca/), where I studied [Information Technology and Applied Systems (ITAS)](https://www.viu.ca/programs/technology-applied-science/information-technology-and-applied-systems-diploma).
+I also completed the [BrainStation Software Engineering Diploma](https://brainstation.io/course/online/remote/software-engineering-bootcamp) to further reinforce my web development knowledge.
 
-# Cloud/DevSecOps & Cybersecurity Project Portfolio 🔐
-
-I am a versatile Information Support Specialist with a strong foundation in cloud infrastructure, endpoint security, and system administration. Known for bridging the gap between technical troubleshooting and proactive defense, I excel at supporting hybrid environments while implementing secure and scalable solutions. My hands-on experience includes managing enterprise-grade firewalls, securing endpoints, optimizing Microsoft 365 environments, and automating tasks using PowerShell and Bash.
-
-Whether deploying secure cloud resources in Azure, responding to endpoint threats, or streamlining user onboarding, I approach every challenge with precision and a security-first mindset. I have worked extensively with tools such as Microsoft Defender, Sentinel, Tenable, and Kaseya to enhance visibility, automate detection, and minimize manual triage.
-
-Driven by curiosity and accountability, I bring a collaborative spirit to every engagement. I translate technical concepts for stakeholders, align support with organizational priorities, and continuously strengthen security posture across users, systems, and networks.
-
-I am passionate about delivering reliable IT support while embedding cybersecurity best practices into daily operations. My goal is to ensure that both users and systems remain resilient, secure, and ready for the future.
 
 ## ⚠️ Cloud/Cybersecurity Projects:
 ## 🟣 PURPLE TEAM 🟣
@@ -56,44 +51,55 @@ I am passionate about delivering reliable IT support while embedding cybersecuri
 - **[GitHub Actions CI pipeline project ](https://github.com/Toba0z/DevSecOps_pipeline_PJ/tree/main)**
 
 
+## 🚀 Tech Stack
 
-## 🧰Tools:
-**Network** 
+### 🧠 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Windows&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+### 🖼️ Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 
-**Endpoint**  
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud)
 
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C89?style=for-the-badge&logo=Kali%20Linux&logoColor=white)
+### 🧪 Testing & Automation
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier)
 
-**SIEM** 
+### 🛢️ Storage & DB
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+### 🧰 Tools & Misc
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-003366?style=flat&logo=microsoft&logoColor=white)
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Defender%20for%20Endpoint-0078D4?style=flat&logo=microsoft)
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-5E5E5E?style=flat&logo=azuredevops)
+![Atomic Red Team](https://img.shields.io/badge/-Atomic%20Red%20Team-F03C2E?style=flat&logo=attackiq&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Tenable](https://img.shields.io/badge/-Tenable-0052CC?style=flat&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 
-**Security Testing**  
-
-![Atomic Red Team](https://img.shields.io/badge/-Atomic_Red_Team-FF0000?style=for-the-badge&logo=atomic-red-team&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/-PowerShell-2E6DBF?style=for-the-badge&logo=PowerShell&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
-
-**Vulnerability Management**  
-
-![Tenable](https://img.shields.io/badge/-Tenable-3E4D88?style=for-the-badge&logo=Tenable&logoColor=white)
-
-**Cloud**
-
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
-
-
-## 📜 Certifications
-
-- **CISSP**: *Expected October 2025*
-- **CompTIA CySA+**: *Expected September 2025*
-
-<hr/>
 
 ## 🤳 Connect With Me
 
