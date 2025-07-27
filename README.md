@@ -1,10 +1,13 @@
+👋 Hi, I'm **Toba** — a Cloud & DevOps Engineer with over 6 years of experience building secure, reliable systems in AWS and Azure.
 
-## 👋 Hey
+🔧 I specialize in cloud infrastructure, automation, and DevSecOps. I use tools like **Terraform**, **Kubernetes**, and **GitHub Actions** to deploy and manage scalable applications.
 
-I'm Toba, an Information Technology specialist specializing in Cloud Infrastructure and DevOps Engineering.  
+I focus on security and reliability, with hands-on experience using **Snyk**, **SonarQube**, and strong IAM practices to protect systems.
 
-- 🎓 Graduated from [Vancouver Island University](https://www.viu.ca/), where I studied [Information Technology and Applied Systems (ITAS)](https://tradesappliedtech.viu.ca/itas).
-- 💻 Completed the [BrainStation Software Engineering Diploma](https://brainstation.io/course/online/remote-web-development-bootcamp) to further reinforce my web development knowledge.
+I studied [Information Technology and Applied Systems (ITAS)](https://tradesappliedtech.viu.ca/itas) and completed a [Software Engineering Diploma at BrainStation](https://brainstation.io/course/online/remote-web-development-bootcamp).
+
+Check out my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-omoniyi).
+
 
 
 ## ⚠️ AWS Cloud/DevSecOps Projects 
