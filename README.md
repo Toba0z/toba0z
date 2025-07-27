@@ -1,4 +1,4 @@
-👋 Hi, I'm **Toba** — a Cloud & DevOps Engineer with over 6 years of experience building secure, reliable systems in AWS and Azure.
+👋 Hi, I'm **Toba** a Cloud & DevOps Engineer with over 6 years of experience building secure, reliable systems in AWS and Azure.
 
 I specialize in cloud infrastructure, automation, and DevSecOps. I use tools like **Terraform**, **Kubernetes**, and **GitHub Actions** to deploy and manage scalable applications.
 
