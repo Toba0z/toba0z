@@ -14,7 +14,7 @@ Check out my projects below or connect with me on [LinkedIn](https://www.linkedi
 - **[Packer-Provision-Project ](https://github.com/Toba0z/packer-provisioning)**
 - **[Checkout my Terraform Project(IaC) ](https://github.com/Toba0z/springapp_terraform)**
 - **[GitHub Actions CI pipeline project ](https://github.com/Toba0z/DevSecOps_pipeline_PJ/tree/main)**
-
+- **[Kubernetes-Monitoring-with-Grafana-Cloud](https://github.com/Toba0z/Kubernetes-Monitoring-with-Grafana-Cloud.git)**
 
 ## ⚠️ Cloud/Cybersecurity Projects:
 ## 🟣 PURPLE TEAM 🟣
