@@ -1,12 +1,13 @@
-👋 Hi, I'm **Toba** a Cloud & DevOps Engineer with over 6 years of experience building secure, reliable systems in AWS and Azure.
+👋 Hi, I'm **Toba**, an Information Technology Specialist with a strong background in corporate infrastructure and cybersecurity. I specialize in **DevOps** and **Site Reliability Engineering (SRE)**, with **security** as the top priority in every solution I build.
 
-I specialize in cloud infrastructure, automation, and DevSecOps. I use tools like **Terraform**, **Kubernetes**, and **GitHub Actions** to deploy and manage scalable applications.
+I help developers design and deploy **secure, scalable infrastructure**, automate processes, and ship code faster — without compromising on security. My work includes securing enterprise applications and cloud environments using tools like **Terraform**, **Kubernetes**, **GitHub Actions**, **Snyk**, and **SonarQube**, along with enforcing robust IAM practices.
 
-I focus on security and reliability, with hands-on experience using **Snyk**, **SonarQube**, and strong IAM practices to protect systems.
+With over 6 years of hands-on experience across **AWS** and **Azure**, I bring a security-first mindset to infrastructure automation and **DevSecOps**.
 
-I studied [Information Technology and Applied Systems (ITAS)](https://tradesappliedtech.viu.ca/itas) and completed a [Software Engineering Diploma at BrainStation](https://brainstation.io/course/online/remote-web-development-bootcamp).
+I hold a diploma in [Information Technology and Applied Systems (ITAS)](https://tradesappliedtech.viu.ca/itas) and completed the [Software Engineering program at BrainStation](https://brainstation.io/course/online/remote-web-development-bootcamp).
 
-Check out my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-omoniyi).
+Explore my work below or connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-omoniyi).
+
 
 
 
