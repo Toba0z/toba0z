@@ -1,6 +1,6 @@
 👋 Hi, I'm **Toba**, an Information Technology Specialist with a strong background in corporate infrastructure and cybersecurity. I specialize in **DevOps** and **Site Reliability Engineering (SRE)**, with **security** as the top priority in every solution I build.
 
-I help developers design and deploy **secure, scalable infrastructure**, automate processes, and ship code faster — without compromising on security. My work includes securing enterprise applications and cloud environments using tools like **Terraform**, **Kubernetes**, **GitHub Actions**, **Snyk**, and **SonarQube**, along with enforcing robust IAM practices.
+I help developers design and deploy **secure, scalable infrastructure**, automate processes, and ship code faster without compromising on security. My work includes securing enterprise applications and cloud environments using tools like **Terraform**, **Kubernetes**, **GitHub Actions**, **Snyk**, and **SonarQube**, along with enforcing robust IAM practices.
 
 With over 6 years of hands-on experience across **AWS** and **Azure**, I bring a security-first mindset to infrastructure automation and **DevSecOps**.
 
