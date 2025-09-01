@@ -15,10 +15,10 @@ I specialize in **Site Reliability Engineering (SRE)** and **Cloud Infrastructur
   - Strong **Identity and Access Management (IAM)** enforcement  
 ---
 ## Cloud & Platform Experience  
-- **AWS** — EKS, IAM, GuardDuty, WAF, CloudWatch, and Infrastructure Automation  
-- **Azure** — AKS, Sentinel, Defender for Cloud, Role-Based Access Control (RBAC)  
-- **Monitoring & Reliability** — Prometheus, Grafana, and Wazuh for observability and incident response  
-- **Resilience & Compliance** — Zero-trust architectures, CIS Benchmarks, ISO 27001, and NIST alignment  
+- **AWS** - EKS, IAM, GuardDuty, WAF, CloudWatch, and Infrastructure Automation  
+- **Azure** - AKS, Sentinel, Defender for Cloud, Role-Based Access Control (RBAC)  
+- **Monitoring & Reliability** - Prometheus, Grafana, and Wazuh for observability and incident response  
+- **Resilience & Compliance** - Zero-trust architectures, CIS Benchmarks, ISO 27001, and NIST alignment  
 
 ---
 ## Focus  
