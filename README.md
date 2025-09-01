@@ -1,63 +1,37 @@
-👋 Hi, I'm **Toba**, an Information Technology Specialist with a strong background in corporate infrastructure and cybersecurity. I specialize in **DevOps** and **Site Reliability Engineering (SRE)**, with **security** as the top priority in every solution I build.
+# 👋🏽Hi, I'm Toba  
 
-I help developers design and deploy **secure, scalable infrastructure**, automate processes, and ship code faster without compromising on security. My work includes securing enterprise applications and cloud environments using tools like **Terraform**, **Kubernetes**, **GitHub Actions**, **Snyk**, and **SonarQube**, along with enforcing robust IAM practices.
+I'm an **Information Technology Specialist** with a strong background in **corporate infrastructure** and **cybersecurity**.  
+I specialize in **Site Reliability Engineering (SRE)** and **Cloud Infrastructure**, with a **security-first approach** to every solution I design.  
+---
+## What I Do  
+- Design and deploy **secure, scalable cloud infrastructure**  
+- Automate infrastructure provisioning and application deployments  
+- Improve reliability and performance while embedding **security at every stage**  
+- Secure enterprise applications and environments with:  
+  - **Terraform** for Infrastructure as Code  
+  - **Kubernetes** for container orchestration and security hardening  
+  - **GitHub Actions** for CI/CD pipelines  
+  - **Snyk** and **SonarQube** for code and dependency security  
+  - Strong **Identity and Access Management (IAM)** enforcement  
+---
+## Cloud & Platform Experience  
+- **AWS** — EKS, IAM, GuardDuty, WAF, CloudWatch, and Infrastructure Automation  
+- **Azure** — AKS, Sentinel, Defender for Cloud, Role-Based Access Control (RBAC)  
+- **Monitoring & Reliability** — Prometheus, Grafana, and Wazuh for observability and incident response  
+- **Resilience & Compliance** — Zero-trust architectures, CIS Benchmarks, ISO 27001, and NIST alignment  
 
-With over 6 years of hands-on experience across **AWS** and **Azure**, I bring a security-first mindset to infrastructure automation and **DevSecOps**.
-
-I hold a diploma in [Information Technology and Applied Systems (ITAS)](https://tradesappliedtech.viu.ca/itas) and completed the [Software Engineering program at BrainStation](https://brainstation.io/course/online/remote-web-development-bootcamp).
-
-Explore my work below or connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-omoniyi).
-
-
-
+---
+## Focus  
+Delivering **secure, scalable, and reliable infrastructure** by:  
+- Embedding security directly into CI/CD pipelines (DevSecOps)  
+- Optimizing cloud-native environments for performance and cost-efficiency  
+- Building resilient platforms that withstand modern cyber threats  
 
 ## ⚠️ AWS Cloud/DevSecOps Projects 
 - **[Packer-Provision-Project ](https://github.com/Toba0z/packer-provisioning)**
 - **[Checkout my Terraform Project(IaC) ](https://github.com/Toba0z/springapp_terraform)**
 - **[GitHub Actions CI pipeline project ](https://github.com/Toba0z/DevSecOps_pipeline_PJ/tree/main)**
 - **[Kubernetes-Monitoring-with-Grafana-Cloud](https://github.com/Toba0z/Kubernetes-Monitoring-with-Grafana-Cloud.git)**
-
-## ⚠️ Cloud/Cybersecurity Projects:
-## 🟣 PURPLE TEAM 🟣
-
-🎯 **Full SIEM**
-
-- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it (Live Traffic)](https://github.com/Toba0z/Cloud-Soc)**
-- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/Toba0z/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-Ppl/tree/main)**
-- **[Setting up Splunk SIEM; Attacking and remediating it (Live Traffic)](https://github.com/Toba0z/Splunk-SIEM)**
-  
-<hr style="height:4px; background-color:black; border:none;" />
-
-## 🔵 BLUE TEAM 🔵
-
-### ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/Toba0z/vulnerability_Management_program)**
-- **[Operation Jackal Spear: A Threat Hunting Scenario](https://github.com/Toba0z/stig--implementation)**
-- **[15+ Programmatic Vulnerability Remediations (PowerShell and BASH))](https://github.com/Toba0z/Audit-Remediation-Win-Server)**
-- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/Toba0z/Toba0z-Remediation-Automation-Bash-Powershell)**
-- **[Vulnerability Management in Azure Sandbox](https://github.com/Toba0z/ten-nessus-vulnerability/blob/main/README.md)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Toba0z/threat-hunting-scenario-tor-brws/tree/main)**
-- **[Incident Response: Threat Hunting (Operation Jackal Spear)](https://github.com/Toba0z/Operation-Jackal-Spear-A-Threat-Hunting-Scenario/blob/main/README.md)**
-- **[Incident Response: PwnCrypt Outbreak: A Zero-Day Ransomware Event](https://github.com/Toba0z/Operation-PwnCrypt-Zero-Day-Ransomware-Strike/blob/main/README.md)**
-- **[Incident Response: Detecting Remote Code Execution (RCE)](https://github.com/Toba0z/Detecting-Remote-Code-Execution-RCE-/blob/main/README.md)**
-- **[Creating Alert Rules for Brute Force Attempts](https://github.com/Toba0z/Creating-Alert-Rules-for-Brute-Force-Attempts/blob/main/README.md)**
-- **[Phishing Email Response Workflow](https://github.com/Toba0z/Phishing-Email-Response-Workflow/blob/main/README.md)**
-- **[Incident Response: Detecting-Suspicious-PowerShell-Web-Activity](https://github.com/Toba0z/Detecting-Suspicious-PowerShell-Web-Activity/blob/main/README.md)**
-- **[Incident Response: Alert-Rule-Potential-Impossible-Travel](https://github.com/Toba0z/Alert-Rule-Potential-Impossible-Travel/blob/main/README.md)**
-- **[Threat Hunting Incident: Data Exfiltration by PIP'd Employee](https://github.com/Toba0z/Data-Exfiltration-Detection/blob/main/README.md)**
-- **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/Toba0z/DeviceInfo-Alert-Public-IP-Exposure/blob/main/README.md)**
-- **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/Toba0z/Alert-Sudden-Network-Slowdowns/blob/main/README.md)**
-- **[Incident Response: Phishing via Fake Software Update](https://github.com/Toba0z/Update-Phishing-Detection-Software/blob/main/README.md)**
-- **[NIST Framework: Compliance Implementation Guide](https://github.com/Toba0z/NIST-Compliance-Framework-Overview/blob/main/README.md)**
-
-## GRC Analyst
-- **[NIST Cybersecurity Framework (CSF) 2.0: Corporate Assessment](https://github.com/Toba0z/Governance-Risk-Compliance-Analyst-Project/blob/main/README.md)**
-
-
 
 
 ## 🚀 Tech Stack
